@@ -1,4 +1,4 @@
-Region,is24Hours,carParkCount,hasCarparkCost,1/maxHourLimit,hasTouristAttraction,currentType,numberOfConnectors,hasChargingCost
+Region,is24Hours,carParkCount,hasCarparkCost,invHourLim,hasTouristAttraction,currentType,numberOfConnectors,hasChargingCost
 Canterbury,TRUE,1,FALSE,0,FALSE,AC,1,TRUE
 Southland,TRUE,2,FALSE,0,FALSE,AC,1,TRUE
 Auckland,FALSE,4,FALSE,0,FALSE,AC,4,FALSE
